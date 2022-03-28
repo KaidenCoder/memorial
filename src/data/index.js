@@ -25,34 +25,24 @@ module.exports = [
     date: 'Jul 18, 2021',
   },
   {
-    url: 'https://www.youtube.com/watch?v=wEvqRwLVr90&t=325s',
-    title: 'SICEU CONSECRATION  Message by Dr Ishak Ahmed from Genesis 11:27 .',
-    date: 'Jul 25, 2021',
-  },
-  {
     url: 'https://youtu.be/1zaLzRYgVZE?t=772',
     title: 'Message by Dr Ishak Ahmed from Philippians 4:6-7.',
     date: 'Jul 23, 2021',
   },
   {
-    url: 'https://youtu.be/ycx9RgZwddM?t=1195',
+    url: 'https://www.youtube.com/watch?v=wEvqRwLVr90&t=325s',
+    title: 'SICEU CONSECRATION  Message by Dr Ishak Ahmed from Genesis 11:27 .',
+    date: 'Jul 25, 2021',
+  },
+  {
+    url: 'https://youtu.be/ycx9RgZwddM?t=1205',
     title: 'Message by Dr Ishak Ahmed from Numbers 21:4-9.',
     date: 'Aug 1, 2021',
   },
   {
-    url: 'https://youtu.be/ycx9RgZwddM?t=1195',
+    url: 'https://www.youtube.com/watch?v=PD1N5eJ8xus',
     title: 'SMC EU, Message by Dr Ishak Ahmed from Numbers 21:4-9.',
     date: 'Aug 1, 2021',
-  },
-  {
-    url: 'https://youtu.be/ycx9RgZwddM?t=1195',
-    title: 'SMC EU, Message by Dr Ishak Ahmed from Numbers 21:4-9.',
-    date: 'Aug 1, 2021',
-  },
-  {
-    url: 'https://youtu.be/4R06BgD0fRM?t=3230',
-    title: 'Message by Dr Ishak Ahmed from James 4:8.',
-    date: 'Aug 6, 2021',
   },
   {
     url: 'https://youtu.be/4R06BgD0fRM?t=3230',
@@ -63,11 +53,6 @@ module.exports = [
     url: 'https://youtu.be/VyFmaZNtfbk?t=2030',
     title: 'Message by Dr Ishak Ahmed from Ezekiel 22:23-31.',
     date: 'Aug 8, 2021',
-  },
-  {
-    url: 'https://youtu.be/YQtF4cVTUd0?t=1593',
-    title: 'Message by Dr Ishak Ahmed from Proverbs 6:16-19 .',
-    date: 'Aug 22, 2021',
   },
   {
     url: 'https://youtu.be/YQtF4cVTUd0?t=1593',
